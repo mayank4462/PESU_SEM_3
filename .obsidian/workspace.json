@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "f44c27836129fce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac55cec64d61b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2a3fcda380cf70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CWH Stack(PUSH,POP,PEEK)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbd28fd5456debdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "242965578cb5ad8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b5cb22c618a7a51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9aed6ca04449283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c984d9986748cbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9013981d82876f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffef441d3bffd9ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f23af5e6cab9ea3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/DSA Class Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "33a374eeede87c63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/DSA Class Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "397a7abafd33db38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc22bd180d365f5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f958dce511037a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/DSA Class Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3e2a3fcda380cf70",
+  "lastOpenFiles": [
+    "Hasan Dsa/Brackets/Balanced Parentheses Checker (Stack) — C Implementation.md",
+    "OS/Semaphores.md",
+    "DSA/Stack/Stack Extra.md",
+    "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
+    "Hasan Dsa/Brackets/Postfix Expression Evaluator (Stack) — C Implementation.md",
+    "Hasan Dsa/Stack Using Linked List — Complete Program.md",
+    "Hasan Dsa/Stack Using Array Complete Program.md",
+    "Hasan Dsa/Brackets/Operator Precedence Parsing — Infix to Postfix Conversion.md",
+    "Hasan Dsa/Brackets/Balanced Brackets Checker (Stack) — C Implementation.md",
+    "Hasan Dsa/Brackets",
+    "Untitled",
+    "Hasan Dsa/Linked List(Stack)/Singly Linked List — C Implementation.md",
+    "Hasan Dsa/Linked List(Stack)/Singly Ordered Linked List using Header Node.md",
+    "Hasan Dsa/Untitled.md",
+    "Hasan Dsa/Linked List(Stack)",
+    "Hasan Dsa",
+    "New folder",
+    "DSA/Stack/Stack.md",
+    "DSA/Stack.md",
+    "DSA/Stack",
+    "OS/Lab(Message Queue Commands).md",
+    "CN/Unit 1.md",
+    "sih.md",
+    "OS/Programs.md",
+    "DSA/DSA Lab.md",
+    "DSA/DSA Class Guide.md",
+    "DLCD",
+    "OS",
+    "CN",
+    "Welcome.md",
+    "DSA/Untitled.canvas",
+    "DSA"
+  ]
+}

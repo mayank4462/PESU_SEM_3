@@ -1,0 +1,35 @@
+/* H1 - Purple */
+.markdown-rendered h1,
+.cm-header-1 {
+    color: #c678dd !important;
+}
+
+/* H2 - Blue */
+.markdown-rendered h2,
+.cm-header-2 {
+    color: #61afef !important;
+}
+
+/* H3 - Green */
+.markdown-rendered h3,
+.cm-header-3 {
+    color: #98c379 !important;
+}
+
+/* H4 - Yellow */
+.markdown-rendered h4,
+.cm-header-4 {
+    color: #e5c07b !important;
+}
+
+/* H5 - Cyan */
+.markdown-rendered h5,
+.cm-header-5 {
+    color: #56b6c2 !important;
+}
+
+/* H6 - Red */
+.markdown-rendered h6,
+.cm-header-6 {
+    color: #e06c75 !important;
+}
