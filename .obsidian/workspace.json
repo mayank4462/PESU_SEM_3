@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
+                "file": "Hasan Dsa/Brackets/Operator Precedence Parsing — Infix to Postfix Conversion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CWH Stack(PUSH,POP,PEEK)"
+              "title": "Operator Precedence Parsing — Infix to Postfix Conversion"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.5
   },
   "right": {
     "id": "9013981d82876f62",
@@ -190,14 +190,14 @@
   },
   "active": "3e2a3fcda380cf70",
   "lastOpenFiles": [
+    "Hasan Dsa/Brackets/Postfix Expression Evaluator (Stack) — C Implementation.md",
+    "Hasan Dsa/Brackets/Operator Precedence Parsing — Infix to Postfix Conversion.md",
     "Hasan Dsa/Brackets/Balanced Parentheses Checker (Stack) — C Implementation.md",
+    "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
     "OS/Semaphores.md",
     "DSA/Stack/Stack Extra.md",
-    "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
-    "Hasan Dsa/Brackets/Postfix Expression Evaluator (Stack) — C Implementation.md",
     "Hasan Dsa/Stack Using Linked List — Complete Program.md",
     "Hasan Dsa/Stack Using Array Complete Program.md",
-    "Hasan Dsa/Brackets/Operator Precedence Parsing — Infix to Postfix Conversion.md",
     "Hasan Dsa/Brackets/Balanced Brackets Checker (Stack) — C Implementation.md",
     "Hasan Dsa/Brackets",
     "Untitled",
