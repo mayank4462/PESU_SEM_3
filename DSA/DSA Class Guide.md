@@ -5,4 +5,4 @@ where as inside main elements have distinct main value.
 int *p = a+3;
 p-a;
 so this is the format to return the size of the array.
-->
+->damm
