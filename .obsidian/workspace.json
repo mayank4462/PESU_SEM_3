@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/LinkedList/Circular Linked List.md",
+                "file": "DSA/Queue/Doubly Ended Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circular Linked List"
+              "title": "Doubly Ended Queue"
             }
           }
         ]
@@ -191,11 +191,12 @@
   },
   "active": "d9d708e0b8d00478",
   "lastOpenFiles": [
+    "DSA/LinkedList/Circular Linked List.md",
+    "DSA/Queue/Doubly Ended Queue.md",
     "DSA/Queue/Array Queue.md",
     "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
     "DSA/DSA Class Guide.md",
     "DSA/DSA Lab.md",
-    "DSA/LinkedList/Circular Linked List.md",
     "DSA/Queue",
     "DSA/hi.md",
     "DSA/LinkedList",
@@ -220,7 +221,6 @@
     "Hasan Dsa/Brackets/Postfix Expression Evaluator (Stack) — C Implementation.md",
     "Hasan Dsa/Brackets/Balanced Parentheses Checker (Stack) — C Implementation.md",
     "OS/Semaphores.md",
-    "DSA/Stack/Stack Extra.md",
     "Hasan Dsa/Brackets",
     "Untitled",
     "Hasan Dsa/Linked List(Stack)",
