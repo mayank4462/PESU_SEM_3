@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af4d735f329cb63e",
+        "id": "595a2ecc056e4ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "727bbb2c0ed0f4e1",
+            "id": "b1673598bcec1f3a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,12 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "843a28db38e1f950",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -182,6 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "727bbb2c0ed0f4e1",
-  "lastOpenFiles": []
+  "active": "b1673598bcec1f3a",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base"
+  ]
 }
