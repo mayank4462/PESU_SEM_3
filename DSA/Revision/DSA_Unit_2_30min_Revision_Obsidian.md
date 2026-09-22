@@ -24,15 +24,15 @@ revision_target: "~30 minutes"
 
 ## 🗺️ 30-Minute Route
 
-| Time | Topic | What to remember |
-|---:|---|---|
-| 0–4 min | Circular List | cycle ≠ NULL, `do...while`, one-node case, Josephus |
-| 4–8 min | Doubly Linked List | `prev_` + `next_`, 4 pointer changes, head/tail edge cases |
-| 8–12 min | Circular Array Queue | `front_ == rear_`, but **when** you test it matters |
-| 12–18 min | Priority Queue | priority decides deletion; implementation changes cost |
-| 18–24 min | Trees + BST | `n−1` edges, binary tree, inorder, BST direction, worst-case search |
-| 24–27 min | Deque + Stack via Deque | both-end operations, composition/delegation |
-| 27–30 min | MCQ Killer Sheet | exact traps from the slides |
+|      Time | Topic                   | What to remember                                                    |
+| --------: | ----------------------- | ------------------------------------------------------------------- |
+|   0–4 min | Circular List           | cycle ≠ NULL, `do...while`, one-node case, Josephus                 |
+|   4–8 min | Doubly Linked List      | `prev_` + `next_`, 4 pointer changes, head/tail edge cases          |
+|  8–12 min | Circular Array Queue    | `front_ == rear_`, but **when** you test it matters                 |
+| 12–18 min | Priority Queue          | priority decides deletion; implementation changes cost              |
+| 18–24 min | Trees + BST             | `n−1` edges, binary tree, inorder, BST direction, worst-case search |
+| 24–27 min | Deque + Stack via Deque | both-end operations, composition/delegation                         |
+| 27–30 min | MCQ Killer Sheet        | exact traps from the slides                                         |
 
 ---
 
