@@ -30,19 +30,19 @@ aliases:
 
 # 0. ⏱️ The 30-Minute Route
 
-| Time | Revise | What must stick |
-|---|---|---|
-| 0-3 min | Big picture | ADT vs DS, array vs list, stack basics |
-| 3-7 min | Functions + pointers | pass-by-value, pointer arithmetic, alias/dangling/garbage |
-| 7-10 min | Arrays | decay, O(1) access, row-major, `*p++`, one-past |
-| 10-12 min | Structures | `.`, `->`, assignment, padding, self-reference |
-| 12-15 min | Dynamic allocation | `malloc`, `free`, leak, dangling |
-| 15-19 min | ADT + List | interface vs implementation, list properties |
-| 19-23 min | Linked list + header node | sequential access, ordered insertion, header-node advantage |
-| 23-26 min | Stack | LIFO, interface, implementation, push/pop |
-| 26-28 min | Stack applications | bracket checking |
-| 28-29 min | Infix/postfix | conversion + evaluation + operand order |
-| 29-30 min | Polynomial + skiplist/multilist + traps | last-pass MCQ memory dump |
+| Time      | Revise                                  | What must stick                                             |
+| --------- | --------------------------------------- | ----------------------------------------------------------- |
+| 0-3 min   | Big picture                             | ADT vs DS, array vs list, stack basics                      |
+| 3-7 min   | Functions + pointers                    | pass-by-value, pointer arithmetic, alias/dangling/garbage   |
+| 7-10 min  | Arrays                                  | decay, O(1) access, row-major, `*p++`, one-past             |
+| 10-12 min | Structures                              | `.`, `->`, assignment, padding, self-reference              |
+| 12-15 min | Dynamic allocation                      | `malloc`, `free`, leak, dangling                            |
+| 15-19 min | ADT + List                              | interface vs implementation, list properties                |
+| 19-23 min | Linked list + header node               | sequential access, ordered insertion, header-node advantage |
+| 23-26 min | Stack                                   | LIFO, interface, implementation, push/pop                   |
+| 26-28 min | Stack applications                      | bracket checking                                            |
+| 28-29 min | Infix/postfix                           | conversion + evaluation + operand order                     |
+| 29-30 min | Polynomial + skiplist/multilist + traps | last-pass MCQ memory dump                                   |
 
 > [!tip] Revision rule
 > **Do not reread examples passively.** For every code snippet, ask: **What points where? What gets changed? What becomes inaccessible? What gets dereferenced?**
