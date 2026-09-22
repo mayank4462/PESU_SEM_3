@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f44c27836129fce4",
+    "id": "1b6d9ea0551f1a64",
     "type": "split",
     "children": [
       {
-        "id": "6168275c3cd2408d",
+        "id": "af4d735f329cb63e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d708e0b8d00478",
+            "id": "727bbb2c0ed0f4e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Queue/Doubly Ended Queue.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Doubly Ended Queue"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bbd28fd5456debdd",
+    "id": "75e964c250c9caa4",
     "type": "split",
     "children": [
       {
-        "id": "242965578cb5ad8d",
+        "id": "2ede23092aec0459",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5cb22c618a7a51",
+            "id": "e7a1f965cd792227",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "e9aed6ca04449283",
+            "id": "8f238355fea0b924",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "0c984d9986748cbc",
+            "id": "c4d3288c2558cbf6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,42 +79,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 300
   },
   "right": {
-    "id": "9013981d82876f62",
+    "id": "62e78624defefe67",
     "type": "split",
     "children": [
       {
-        "id": "ffef441d3bffd9ab",
+        "id": "71326a875fbd66b4",
         "type": "tabs",
         "children": [
           {
-            "id": "7f23af5e6cab9ea3",
+            "id": "c3695cb60f775a00",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CN/U 1/L 3.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
           },
           {
-            "id": "33a374eeede87c63",
+            "id": "1e69b4dc0cd93910",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/DSA Class Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +121,7 @@
             }
           },
           {
-            "id": "397a7abafd33db38",
+            "id": "57f04e9d5f0ef15c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +136,7 @@
             }
           },
           {
-            "id": "fc22bd180d365f5b",
+            "id": "7bafc63e413f6be1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +150,11 @@
             }
           },
           {
-            "id": "9f958dce511037a8",
+            "id": "794075f4862e67df",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/DSA Class Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,45 +182,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9d708e0b8d00478",
-  "lastOpenFiles": [
-    "DSA/LinkedList/Circular Linked List.md",
-    "DSA/Queue/Doubly Ended Queue.md",
-    "DSA/Queue/Array Queue.md",
-    "DSA/Stack/CWH Stack(PUSH,POP,PEEK).md",
-    "DSA/DSA Class Guide.md",
-    "DSA/DSA Lab.md",
-    "DSA/Queue",
-    "DSA/hi.md",
-    "DSA/LinkedList",
-    "DSA/Stack/Stack.md",
-    "CN/U 1/L 1.md",
-    "CN/U 1/L 2.md",
-    "CN/U 1/L 3.md",
-    "CN/Unit 1.md",
-    "Untitled.canvas",
-    "CN/U 1/L 11.md",
-    "CN/U 1/L 10.md",
-    "CN/U 1/L 9.md",
-    "CN/U 1/L 8.md",
-    "CN/U 1/L 7.md",
-    "CN/U 1/L 6.md",
-    "CN/U 1/L 5.md",
-    "CN/U 1/L 4.md",
-    "CN/U 1/Remaining.md",
-    "CN/U 1/MCQ.md",
-    "CN/U 1",
-    "Hasan Dsa/Brackets/Operator Precedence Parsing — Infix to Postfix Conversion.md",
-    "Hasan Dsa/Brackets/Postfix Expression Evaluator (Stack) — C Implementation.md",
-    "Hasan Dsa/Brackets/Balanced Parentheses Checker (Stack) — C Implementation.md",
-    "OS/Semaphores.md",
-    "Hasan Dsa/Brackets",
-    "Untitled",
-    "Hasan Dsa/Linked List(Stack)",
-    "Hasan Dsa",
-    "New folder",
-    "DSA/Stack",
-    "DLCD",
-    "DSA/Untitled.canvas"
-  ]
+  "active": "727bbb2c0ed0f4e1",
+  "lastOpenFiles": []
 }
