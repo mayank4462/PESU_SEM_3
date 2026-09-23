@@ -1,1 +1,0 @@
-write a program to fork a  multiple child process and replace image of the child process with ls -a command and one more child process should be replaced with date command and use with array to store arguments for exit command.
