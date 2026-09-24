@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CN/U 1/L 5.md",
+                "file": "CN/U 1/L 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L 5"
+              "title": "L 6"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "7e8e1ff3d82e422e",
   "lastOpenFiles": [
-    "CN/U2/2.md",
+    "CN/U2/3.md",
+    "CN/U 1/L 6.md",
     "CN/U 1/L 5.md",
+    "CN/U2/2.md",
     "CN/U2/Unconfirmed 174807.crdownload",
     "CN/U 1/L 4.md",
     "CN/U2/1.md",
