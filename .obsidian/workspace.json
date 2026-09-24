@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CN/U2/1.md",
-                "mode": "source",
+                "file": "CN/U 1/L 11.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "L 11"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "52619fe829169b3e",
   "lastOpenFiles": [
+    "CN/U2/1.md",
     "CN/U 1/L 9.md",
     "CN/U2/9.md",
     "CN/U2/8.md",
@@ -222,7 +223,6 @@
     "CN/U2/7.md",
     "CN/U2/5.md",
     "CN/U2/6.md",
-    "CN/U2/1.md",
     "CN/U 1/L 8.md",
     "CN/U 1/L 7.md",
     "CN/U 1/L 3.md",
