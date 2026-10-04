@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CN/U3/7.md",
+                "file": "CN/U3/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7"
+              "title": "1"
             }
           }
         ],
@@ -256,10 +256,15 @@
   },
   "active": "f0f47e7499cebaf2",
   "lastOpenFiles": [
+    "CN/U3/7.md",
+    "DSA/Binary tree/Simplified_Array_BST_Notes.md",
+    "DSA/Binary tree/BST_U3_Obsidian_Notes.md",
+    "DSA/Binary tree/Unconfirmed 76312.crdownload",
+    "DSA/Binary tree",
+    "DSA/New folder",
     "CN/U3/8.md",
     "CN/U3/NAT_Notes.md",
     "CN/U3/3.md",
-    "CN/U3/7.md",
     "CN/U3/IPv4_Addressing_DHCP_Notes.md",
     "CN/U3/6.md",
     "CN/U3/IP_Fragmentation_Notes.md",
@@ -280,8 +285,6 @@
     "CN/U2/4.md",
     "CN/U2/3.md",
     "CN/U2/2.md",
-    "CN/U 1/L 10.md",
-    "CN/U2/1.md",
     "CN/U2/Unconfirmed 32809.crdownload",
     "CN/U2/Unconfirmed 174807.crdownload",
     "CN/U2/Unconfirmed 208745.crdownload",
