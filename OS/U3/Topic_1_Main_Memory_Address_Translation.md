@@ -82,11 +82,11 @@ Example: starting address 74000 + offset 14 = absolute address 74014.
 
 ### Three binding stages
 
-| Stage | When | Consequence |
-|---|---|---|
-| Compile time | During compilation, if the starting location is known | Absolute code can be generated; changing the location may require recompilation/regeneration |
-| Load time | When the program is loaded | Relocatable code is adjusted to the chosen location; moving it requires reloading/relocation |
-| Execution time | During execution, when memory references occur | Process can potentially move while running; requires hardware translation support |
+| Stage          | When                                                  | Consequence                                                                                  |
+| -------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Compile time   | During compilation, if the starting location is known | Absolute code can be generated; changing the location may require recompilation/regeneration |
+| Load time      | When the program is loaded                            | Relocatable code is adjusted to the chosen location; moving it requires reloading/relocation |
+| Execution time | During execution, when memory references occur        | Process can potentially move while running; requires hardware translation support            |
 
 ## 6. Program processing
 
