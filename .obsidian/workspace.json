@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/U3/Topic_1_Main_Memory_Address_Translation.md",
+                "file": "OS/U3/OS_Topics_3.5_to_3.8_Obsidian_Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic_1_Main_Memory_Address_Translation"
+              "title": "OS_Topics_3.5_to_3.8_Obsidian_Notes"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "ca6b82aaaf310dc3",
   "lastOpenFiles": [
+    "OS/U3/Topic_1_Main_Memory_Address_Translation.md",
+    "OS/U3/OS_Topics_3.5_to_3.8_Obsidian_Notes.md",
     "OS/U3/Topic_4_Paging.md",
     "OS/U3/Topic_3_Segmentation.md",
     "OS/U3/Topic_2_Swapping_Allocation_Fragmentation.md",
@@ -230,8 +232,6 @@
     "CN/U3/IPv4_Addressing_DHCP_Notes.md",
     "CN/U3/6.md",
     "CN/U3/IP_Fragmentation_Notes.md",
-    "CN/U3/5.md",
-    "CN/U3/IP_Datagram_Format_Notes (1).md",
     "CN/U2/Unconfirmed 32809.crdownload",
     "CN/U2/Unconfirmed 174807.crdownload",
     "CN/U2/Unconfirmed 208745.crdownload"
