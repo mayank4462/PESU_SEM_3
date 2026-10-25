@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA Class Guide.md",
+                "file": "OS/U3/Topic_3_Segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA Class Guide"
+              "title": "Topic_3_Segmentation"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "ca6b82aaaf310dc3",
   "lastOpenFiles": [
-    "sih.md",
     "DSA/DSA Class Guide.md",
+    "sih.md",
     "DSA/DSA Lab.md",
     "DSA/hi.md",
     "DSA/Unit 3/11 - AVL Trees and Rotations (11.docx).md",

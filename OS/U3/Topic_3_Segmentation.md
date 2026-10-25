@@ -6,7 +6,7 @@ tags:
   - memory-management
   - segmentation
 ---
-
+	
 # Topic 3 — Segmentation
 
 ## 1. Definition
