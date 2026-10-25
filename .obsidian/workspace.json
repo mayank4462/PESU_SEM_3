@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/U3/Topic_3_Segmentation.md",
+                "file": "OS/U3/OS_Topics_3.5_to_3.8_Obsidian_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic_3_Segmentation"
+              "title": "OS_Topics_3.5_to_3.8_Obsidian_Notes"
             }
           }
         ]
@@ -199,6 +199,10 @@
   },
   "active": "ca6b82aaaf310dc3",
   "lastOpenFiles": [
+    "OS/U3/Topic 5.md",
+    "OS/U3/OS_Topics_3.5_to_3.8_Obsidian_Notes.md",
+    "OS/U3/Topic_4_Paging.md",
+    "OS/U3/Topic_3_Segmentation.md",
     "DSA/DSA Class Guide.md",
     "sih.md",
     "DSA/DSA Lab.md",
@@ -213,13 +217,9 @@
     "DSA/Unit 3/04 - BST Array-Based Node Implementation (4.docx).md",
     "DSA/Unit 3/03 - BST Array Representation and Tree Operations (3.zip).md",
     "DSA/Unit 3/01 - Tree Implementations (1.zip).md",
-    "OS/U3/Topic_3_Segmentation.md",
     "OS/U3/Topic 6.md",
-    "OS/U3/Topic 5.md",
-    "OS/U3/Topic_4_Paging.md",
     "OS/U3/Topic_2_Swapping_Allocation_Fragmentation.md",
     "OS/U3/Topic_1_Main_Memory_Address_Translation.md",
-    "OS/U3/OS_Topics_3.5_to_3.8_Obsidian_Notes.md",
     "OS/U3/OS_3.8.1_NUMA_Locality_Clock_Obsidian.md",
     "OS/U3/OS_3.7.1_Page_Replacement_Allocation_Thrashing_Obsidian.md",
     "OS/U3/OS_3.6.1_Virtual_Memory_Demand_Paging_COW_Obsidian.md",
