@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57896c49adf37900",
+        "id": "a2787e8b2fa345a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6b82aaaf310dc3",
+            "id": "1222019b03cca81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca6b82aaaf310dc3",
+  "active": "1222019b03cca81f",
   "lastOpenFiles": [
+    "DSA/Unit 3/01 - Tree Implementations (1.zip).md",
     "Adi/CN/3.1 TCP Congestion Control.md",
     "CN/U3/2.md",
     "CN/U3/1.md",
@@ -224,7 +225,6 @@
     "DSA/Unit 3/05 - Threaded Binary Search Tree Implementation (5.zip).md",
     "DSA/Unit 3/04 - BST Array-Based Node Implementation (4.docx).md",
     "DSA/Unit 3/03 - BST Array Representation and Tree Operations (3.zip).md",
-    "DSA/Unit 3/01 - Tree Implementations (1.zip).md",
     "DSA/Unit 3/Unconfirmed 438080.crdownload",
     "DSA/Unit 3/Unconfirmed 582586.crdownload",
     "DSA/Unit 3/Unconfirmed 625746.crdownload",
