@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CN/U 1/L 2.md",
+                "file": "CN/U4/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L 2"
+              "title": "1"
             }
           }
         ]
@@ -199,6 +199,11 @@
   },
   "active": "1222019b03cca81f",
   "lastOpenFiles": [
+    "CN/Unit 1.md",
+    "CN/U4/1.md",
+    "CN/U4",
+    "CN/New folder",
+    "CN/U 1/L 2.md",
     "DSA/Unit 3/01 - Tree Implementations (1.zip).md",
     "Adi/CN/3.1 TCP Congestion Control.md",
     "CN/U3/2.md",
@@ -222,9 +227,6 @@
     "DSA/Unit 3/08 - Threaded Binary Tree (8.docx).md",
     "DSA/Unit 3/07 - Threaded Binary Search Tree Implementation (7.zip).md",
     "DSA/Unit 3/06 - Expression Tree Evaluation (6.docx).md",
-    "DSA/Unit 3/05 - Threaded Binary Search Tree Implementation (5.zip).md",
-    "DSA/Unit 3/04 - BST Array-Based Node Implementation (4.docx).md",
-    "DSA/Unit 3/03 - BST Array Representation and Tree Operations (3.zip).md",
     "DSA/Unit 3/Unconfirmed 438080.crdownload",
     "DSA/Unit 3/Unconfirmed 582586.crdownload",
     "DSA/Unit 3/Unconfirmed 625746.crdownload",
@@ -232,8 +234,6 @@
     "DSA/Binary tree/Unconfirmed 76312.crdownload",
     "DSA/Binary tree",
     "DSA/New folder",
-    "CN/U2/Unconfirmed 32809.crdownload",
-    "CN/U2/Unconfirmed 174807.crdownload",
-    "CN/U2/Unconfirmed 208745.crdownload"
+    "CN/U2/Unconfirmed 32809.crdownload"
   ]
 }
