@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1222019b03cca81f",
+  "active": "e7a1f965cd792227",
   "lastOpenFiles": [
+    "CN/U4/11.md",
     "CN/U4/10.md",
     "CN/U4/9.md",
     "CN/U4/8.md",
@@ -247,7 +248,6 @@
     "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Original Source Files/queue.h",
     "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Original Source Files/queue.c",
     "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Original Source Files/heap.h",
-    "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Individual Code Notes/07 - Heap and Queue Client.md",
-    "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Individual Code Notes/06 - Queue Wrapper Operations.md"
+    "DSA/Unit 3/Unit_3_DSA_Obsidian_Vault/Unit_3_DSA_Obsidian_Vault/05 - Heap and Queue/Individual Code Notes/07 - Heap and Queue Client.md"
   ]
 }
